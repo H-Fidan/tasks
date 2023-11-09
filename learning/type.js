@@ -1,0 +1,7 @@
+let names=prompt("please enter your name")
+let namedata=document.getElementById('data')
+let lastname=prompt("plese enter your lastname")
+let email=prompt("please enter your email")
+console.log(names)
+console.log(lastname)
+console.log(email)
